@@ -4,10 +4,11 @@
 * Supervisor of the work Dr. Sifat Momen.
 
 ### Idea
-#### The idea of planned behavior, a psychological framework, and machine learning have all been combined in this study to produce models that accurately predict consumer purchasing behavior. The inclusion of XAI also explores the most significant influencing factors that drive online purchasing.
+The idea of planned behavior, a psychological framework, and machine learning have all been combined in this study to produce models that accurately predict consumer purchasing behavior. The inclusion of XAI also explores the most significant influencing factors that drive online purchasing.
   
 ### Dependencies
-- python>=3.7
+```
+python>=3.7
 colorama==0.4.6
 contourpy==1.1.1
 cycler==0.11.0
@@ -32,7 +33,8 @@ scipy==1.11.2
 six==1.16.0
 threadpoolctl==3.2.0
 tifffile==2023.9.18
-tqdm==4.66.1
+tqdm==4.66.1 
+```
 
 ### Dataset
 
@@ -51,7 +53,13 @@ DOI: 10.17632/nzy5528nst.1
 * `Data Visualization.ipynb`, `Result Visualization.ipynb`: contains the Data exploration and visualization part of the study.
 * `XAI_LIME.ipynb` : Consists of implementation of the exaplainable AI Lime in the work .
 
-## How to run
+### How to run
+1. Install Dependencies
+```bash
+pip install -r requirements.txt
+```
+2. Download dataset xlsx file.
+3. Run ipynb files and change the dataset file directories.
 
 
 ## Contact and Checkout the Authors:
@@ -63,4 +71,4 @@ Rezwan Hossain: rezwan.hossain1@northsouth.edu
 
 Raiyan Rahman: raiyan.rahman01@northsouth.edu
 
-Dr. Sifat Momen: sifat.momen@northsouth.edu 
+Dr. Sifat Momen: sifat.momen@northsouth.edu
