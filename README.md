@@ -48,8 +48,11 @@ DOI: 10.17632/nzy5528nst.1
 
 * `PB on ATTD _ SN _ PBC.ipynb`, `PB on ATTD _ SN.ipynb`, `PB on ATTD.ipynb`, `PB on SN _PBC.ipynb`, `PB on ATTD _ PBC.ipynb`, `PB on SN.ipynb`, `PB on PBC.ipynb`: these are the seven combinations of TPB factors where eight machine learning algorithmn have been applied.
 * `Hyper_Parameter_Optimization.ipynb` : Hyper parameter optimization to find the best parameter for the model.
-* `Data Visualization.ipynb`, `Result Visualization.ipynb` contains the Data exploration and visualization part of the study.
+* `Data Visualization.ipynb`, `Result Visualization.ipynb`: contains the Data exploration and visualization part of the study.
 * `XAI_LIME.ipynb` : Consists of implementation of the exaplainable AI Lime in the work .
+
+## How to run
+
 
 ## Contact and Checkout the Authors:
 Md Shawmoon Azad: shawmoon.azad@northsouth.edu
