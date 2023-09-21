@@ -35,6 +35,14 @@
 -tifffile==2023.9.18
 -tqdm==4.66.1
 ```
+### How to Run
+-First install the dependencies.
+```bash
+pip install -r requirements.txt
+```
+-Download the dataset.
+-Run ipynb files.
+
 ### Dataset
 
 * The survey dataset of The Influence of theory of planned behaviour on purchase behaviour on social media
