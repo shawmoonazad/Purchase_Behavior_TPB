@@ -1,7 +1,7 @@
 # Predictive modeling of consumer purchase behavior on social media: integrating theory of planned behavior and machine learning for actionable insights.
 * The code is the official implementation of the work "Predictive modeling of consumer purchase behavior on social media: integrating theory of planned behavior and machine learning for actionable insights."
-* Authers of the work Md Shawmoon Azad, Shadman Sakib Khan, Rezwan Hossain, Raiyan Rahman.
-* Supervisor of the work Dr. Sifat Momen.
+* Authors of the work: Md Shawmoon Azad, Shadman Sakib Khan, Rezwan Hossain, Raiyan Rahman.
+* Supervisor of the work: Dr. Sifat Momen.
 
 ### Idea
 The idea of planned behavior, a psychological framework, and machine learning have all been combined in this study to produce models that accurately predict consumer purchasing behavior. The inclusion of XAI also explores the most significant influencing factors that drive online purchasing.
